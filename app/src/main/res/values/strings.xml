@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Us</string>
+    <string name="E_no">20SOECA21007</string>
+    <string name="fname">Yashkumar</string>
+    <string name="mname">Dipakbhai</string>
+    <string name="lname">Chovatiya</string>
+    <string name="city">Gondal</string>
+    <string name="Email">ychovatiya459@rku.ac.in</string>
+    <string name="Paas">Ys.pate</string>
+    <string name="Gender">Male</string>
+
+</resources>
